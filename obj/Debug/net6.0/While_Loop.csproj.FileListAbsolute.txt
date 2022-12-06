@@ -1,0 +1,15 @@
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\While_Loop\bin\Debug\net6.0\While_Loop.exe
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\While_Loop\bin\Debug\net6.0\While_Loop.deps.json
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\While_Loop\bin\Debug\net6.0\While_Loop.runtimeconfig.json
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\While_Loop\bin\Debug\net6.0\While_Loop.dll
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\While_Loop\bin\Debug\net6.0\While_Loop.pdb
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\While_Loop\obj\Debug\net6.0\While_Loop.csproj.AssemblyReference.cache
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\While_Loop\obj\Debug\net6.0\While_Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\While_Loop\obj\Debug\net6.0\While_Loop.AssemblyInfoInputs.cache
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\While_Loop\obj\Debug\net6.0\While_Loop.AssemblyInfo.cs
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\While_Loop\obj\Debug\net6.0\While_Loop.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\While_Loop\obj\Debug\net6.0\While_Loop.dll
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\While_Loop\obj\Debug\net6.0\refint\While_Loop.dll
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\While_Loop\obj\Debug\net6.0\While_Loop.pdb
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\While_Loop\obj\Debug\net6.0\While_Loop.genruntimeconfig.cache
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\While_Loop\obj\Debug\net6.0\ref\While_Loop.dll
